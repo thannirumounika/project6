@@ -2,11 +2,11 @@
 
 This is a web based application developed for health related based website in india
 
-### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
+### This web based edu school application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
 **Project Link** -https://nice-sand-026f11700.2.azurestaticapps.net/
-**project demo video link** - 
+**project demo video link** -https://youtu.be/-j0o7zPrAkM
 
 ## Azure technologies used for Project
 
@@ -55,4 +55,4 @@ This is a web based application developed for health related based website in in
 - HTML
 - CSS
 - JAVA
-
+- Bootstraps
